@@ -1,0 +1,1 @@
+g++ Plot.cpp -fpermissive
